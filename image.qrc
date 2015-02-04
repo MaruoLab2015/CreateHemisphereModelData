@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/fig">
+        <file>cylinderHemisphere.png</file>
+    </qresource>
+</RCC>
